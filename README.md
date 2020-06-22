@@ -21,4 +21,4 @@ proj_Memory_model  				# main folder where .Rproj is located (working directory)
 		model				# NetLogo code
 		rscripts			# R-Code
 		
-https://zenodo.org/badge/274120254.svg
+https://zenodo.org/badge/latestdoi/274120254
