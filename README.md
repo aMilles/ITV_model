@@ -22,3 +22,4 @@ proj_Memory_model  				# main folder where .Rproj is located (working directory)
 		rscripts			# R-Code
 		
 
+<a href="https://zenodo.org/badge/latestdoi/274120254"><img src="https://zenodo.org/badge/274120254.svg" alt="DOI"></a>
